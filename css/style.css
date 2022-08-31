@@ -1,0 +1,32 @@
+.logo img {
+  width: 100px;
+  height: 100px;
+  border-radius: 5%; }
+
+.navbar-expand-lg.fondo {
+  background-color: rgba(80, 75, 75, 0.238) !important; }
+
+a {
+  color: #080808 !important; }
+
+a:hover {
+  font-weight: bolder; }
+
+.carousel-item h5 {
+  color: black !important;
+  font-weight: bolder; }
+  .carousel-item h5 img {
+    height: 800px; }
+
+p {
+  color: black !important; }
+
+footer {
+  width: auto;
+  background-color: rgba(80, 75, 75, 0.238); }
+  footer .section {
+    display: flex;
+    justify-content: center; }
+
+h6 {
+  text-align: center; }
